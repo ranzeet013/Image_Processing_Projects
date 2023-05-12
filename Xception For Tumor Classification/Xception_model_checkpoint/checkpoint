@@ -1,0 +1,2 @@
+model_checkpoint_path: "brain_tumor_classification_model_checkpoint"
+all_model_checkpoint_paths: "brain_tumor_classification_model_checkpoint"

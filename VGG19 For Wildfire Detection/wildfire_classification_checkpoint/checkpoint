@@ -1,0 +1,2 @@
+model_checkpoint_path: "wildfire_classification_chcekpoint"
+all_model_checkpoint_paths: "wildfire_classification_chcekpoint"

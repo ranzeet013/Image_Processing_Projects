@@ -1,0 +1,2 @@
+model_checkpoint_path: "Alzheimer_classification_model_checkpoint"
+all_model_checkpoint_paths: "Alzheimer_classification_model_checkpoint"

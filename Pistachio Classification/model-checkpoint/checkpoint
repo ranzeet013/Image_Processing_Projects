@@ -1,0 +1,2 @@
+model_checkpoint_path: "pistachio_image_classification_model_checkpoint"
+all_model_checkpoint_paths: "pistachio_image_classification_model_checkpoint"
